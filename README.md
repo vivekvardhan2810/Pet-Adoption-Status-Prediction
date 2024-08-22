@@ -2,6 +2,8 @@
 
 This project aims to predict the adoption status of pets using various machine learning models, including LSTM, KNN, K-Means Clustering, and XGBoost. The project performs Exploratory Data Analysis (EDA), preprocessing, training, evaluation, and prediction using the provided dataset.
 
+**Dataset**: https://www.kaggle.com/datasets/rabieelkharoua/predict-pet-adoption-status-dataset
+
 ## Table of Contents
 
 - [Dataset](#dataset)
