@@ -55,3 +55,7 @@ The dataset contains information related to pets and their adoption status. The 
 **K-Means Clustering**: Achieved a silhouette score of 97%.
  
 **XGBoost Model**: Achieved an accuracy of 95%.
+
+## License
+
+This project is open-source and available under the MIT License.
